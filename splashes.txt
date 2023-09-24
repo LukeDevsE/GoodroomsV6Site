@@ -1,0 +1,2 @@
+The site is back up. The website provider updated the php version, which broke the entire site. Regardless, its back up now.
+Goodrooms site is now actually usable on mobile
